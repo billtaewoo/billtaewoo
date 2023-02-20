@@ -1,0 +1,6 @@
+sun, 1.989E30, 0,yellow, 696340000
+mercury, 3.285E23, 57.9E9,grey, 2439700
+venus, 4.867E24, 108.2E9,gold, 6051800
+earth, 5.972E24, 149.6E9,blue, 6371000
+mars, 6.39E23, 228.0E9,red, 3389500
+satellite, 1025, 149.61E9,black, 3000000
