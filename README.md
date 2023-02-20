@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @billtaewoo
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python
-- 📫 How to reach me : E-mail:billtaewoo@gmail.com
+- 👀 I have a experience with python
+- 🌱 I’m currently studying Theoretical Physics
+- 📫 How to reach me : E-mail: s1711673@ed.ac.uk
 
 <!---
 billtaewoo/billtaewoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
